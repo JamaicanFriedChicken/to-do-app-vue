@@ -1,4 +1,4 @@
-# vuextodocrud
+# to-do-app-vue
 
 ## Project setup
 ```
